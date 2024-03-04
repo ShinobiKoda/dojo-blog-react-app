@@ -2,15 +2,75 @@
   "blogs": [
     {
       "title": "My first Blog",
-      "body": "Why do we use it/nIt is a long established fact that a ",
+      "body": "Unveiling the Magic of Everyday Mindfulness: A Journey to Inner Peace. In the hustle and bustle of modern life, it's easy to lose ourselves in the endless cycle of tasks, responsibilities, and digital notifications.",
       "author": "Gojo",
-      "id": 1
+      "id": "1"
     },
     {
-      "title": "Opening Party",
-      "body": "Why do we use it/nIt is a long established fact that a ",
-      "author": "Yoshi",
-      "id": 2
+      "id": "5e9b",
+      "title": "Praise",
+      "body": "My name is Adebiyi Praise. I go to FUTA ",
+      "author": "Mario"
+    },
+    {
+      "id": "7ec9",
+      "title": "kllsdfiljdlf",
+      "body": "dfdfdfdfdf",
+      "author": "Mario"
+    },
+    {
+      "id": "be65",
+      "title": "kllsdfiljdlf",
+      "body": "dfdfdfdfdf",
+      "author": "Mario"
+    },
+    {
+      "id": "2064",
+      "title": "kllsdfiljdlf",
+      "body": "dfdfdfdfdf",
+      "author": "Mario"
+    },
+    {
+      "id": "c2ef",
+      "title": "kllsdfiljdlf",
+      "body": "dfdfdfdfdf",
+      "author": "Mario"
+    },
+    {
+      "id": "34b9",
+      "title": "kllsdfiljdlf",
+      "body": "dfdfdfdfdf",
+      "author": "Mario"
+    },
+    {
+      "id": "ede3",
+      "title": "kllsdfiljdlf",
+      "body": "dfdfdfdfdf",
+      "author": "Mario"
+    },
+    {
+      "id": "ff89",
+      "title": "kllsdfiljdlf",
+      "body": "dfdfdfdfdf",
+      "author": "Mario"
+    },
+    {
+      "id": "e2cc",
+      "title": "kllsdfiljdlf",
+      "body": "dfdfdfdfdf",
+      "author": "Mario"
+    },
+    {
+      "id": "1fd2",
+      "title": "iohffhdohofh",
+      "body": "fiodjfiodfodof",
+      "author": "Yoshi"
+    },
+    {
+      "id": "e461",
+      "title": "hello ninjas",
+      "body": "lorem ipsum",
+      "author": "Yoshi"
     }
   ]
 }
